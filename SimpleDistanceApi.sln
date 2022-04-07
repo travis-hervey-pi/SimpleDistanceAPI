@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDistanceApi", "SimpleDistanceApi\SimpleDistanceApi.csproj", "{254745D9-309C-40F1-A696-6C503E5CDC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254745D9-309C-40F1-A696-6C503E5CDC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254745D9-309C-40F1-A696-6C503E5CDC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254745D9-309C-40F1-A696-6C503E5CDC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254745D9-309C-40F1-A696-6C503E5CDC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3668A4DA-A536-44B1-A2F7-0E396217F80C}
+	EndGlobalSection
+EndGlobal
